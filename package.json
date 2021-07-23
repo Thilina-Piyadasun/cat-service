@@ -1,0 +1,20 @@
+{
+  "name": "cat-service",
+  "version": "1.0.0",
+  "description": "binding cat-images together and save",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config  src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thilina",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "dotenv": "^10.0.0",
+    "postman-request": "^2.88.1-postman.30"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
