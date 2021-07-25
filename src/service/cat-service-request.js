@@ -10,7 +10,7 @@ const createRequest = (imageText = "", args = {}) => {
 };
 
 /**
- * Retrive image from api
+ * Retrieve image from api
  * @param imageText
  * @param args
  * @returns {Promise<unknown>}

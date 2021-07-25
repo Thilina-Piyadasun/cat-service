@@ -42,6 +42,5 @@ Promise.all(imageRequests)
     );
   })
   .catch(err => {
-    console.log("[index] Unexpected error occurred");
-    console.log(err);
+    console.log("[index] Unexpected error occurred",err);
   });
