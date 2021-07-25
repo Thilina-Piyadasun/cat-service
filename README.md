@@ -1,7 +1,7 @@
 # Cat Card Application
 This application will do the following.
 
-#### 1. It will fetch any number of cat images from Cat as a Service (https://cataas.com) according to the given custom texts.
+#### 1. It will fetch any number of cat images from Cat as a Service (https://cataas.com) according to the given number of custom texts.
 
 eg : see the `.env` file `TEXTS` property
 
