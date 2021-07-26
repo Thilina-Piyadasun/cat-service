@@ -8,13 +8,15 @@ eg : see the `.env` file `TEXTS` property
  - When `TEXTS = Hello,You` 
       
       Application will fetch 2 cat images and add `Hello` as first image custom text and add `You` as second image custom text 
+      
+      ![alt text](https://github.com/Thilina-Piyadasun/cat-service/blob/master/output/cat-card-2.jpg)
 
  - When `TEXTS = Hello,You,Cat` 
   
       Application will fetch 3 cat images and add `Hello` as first image custom text, `You` as second image custom text and `Cat` as third image custom text.
       
       
-![alt text](https://github.com/Thilina-Piyadasun/cat-service/blob/master/output/cat-card.jpg)
+      ![alt text](https://github.com/Thilina-Piyadasun/cat-service/blob/master/output/cat-card.jpg)
 
 Likewise this application is capable of merging any number of images
 
